@@ -1,0 +1,19 @@
+# STM32Cube generated files to ignore
+*.launch
+*.log
+*.ioc
+
+# Build folders
+/Debug/
+/Release/
+/build/
+
+# IDE and metadata files
+/.settings/
+/.cproject
+/.project
+/.metadata/
+
+# OS generated files
+Thumbs.db
+.DS_Store
